@@ -31,11 +31,26 @@ a{
     margin: 0 15px
 }
 
-nav{
+.menu{
     display: flex;
+    list-style: none;
     
 }
 
 a:hover{
 font-weight: bold;
+}
+
+.ul1{
+     display: flex;
+    list-style: none;
+}
+
+.ul2{
+     display: flex;
+    list-style: none;
+}
+
+.h1{
+  @import url('https://fonts.googleapis.com/css2?family=Bitcount+Single+Ink:wght@100..900&display=swap');
 }
