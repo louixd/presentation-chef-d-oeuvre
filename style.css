@@ -54,3 +54,19 @@ font-weight: bold;
 .h1{
   @import url('https://fonts.googleapis.com/css2?family=Bitcount+Single+Ink:wght@100..900&display=swap');
 }
+
+input{
+    width: 100%;
+    box-sizing: border-box;
+
+}
+
+textarea{
+     width: 100%;
+    box-sizing: border-box;
+}
+
+section{
+    padding: 2rem 0; 
+    border-top: 50px;
+}
