@@ -51,9 +51,6 @@ font-weight: bold;
     list-style: none;
 }
 
-.h1{
-  @import url('https://fonts.googleapis.com/css2?family=Bitcount+Single+Ink:wght@100..900&display=swap');
-}
 
 input{
     width: 100%;
@@ -69,4 +66,8 @@ textarea{
 section{
     padding: 2rem 0; 
     border-top: 50px;
+}
+
+h2{
+    
 }
